@@ -1,2 +1,2 @@
 # aplikacja-rezerwacji-wizyt
-Opis MVP aplikacji do rezerwacji wizyt.
+Aplikacja do rezerwacji wizyt – wersja MAIN
