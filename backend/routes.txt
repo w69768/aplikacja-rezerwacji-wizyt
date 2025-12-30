@@ -1,0 +1,3 @@
+POST /reservations
+GET /reservations
+DELETE /reservations/{id}
